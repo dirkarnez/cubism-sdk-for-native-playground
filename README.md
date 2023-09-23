@@ -1,5 +1,6 @@
-portaudio-playground
+cubism-sdk-for-native-playground
 ====================
 
 ### Using
-- [dirkarnez/portaudio-prebuilt](https://github.com/dirkarnez/portaudio-prebuilt)
+- https://github.com/Live2D/CubismNativeSamples
+- https://github.com/Live2D/CubismNativeFramework
